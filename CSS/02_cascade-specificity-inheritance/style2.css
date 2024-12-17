@@ -1,0 +1,10 @@
+body {
+    color: darkred;
+}
+
+ul {
+    font-size: 32px;
+    font-weight: 900;
+    font-family: cursive;
+    font-style: italic;
+}

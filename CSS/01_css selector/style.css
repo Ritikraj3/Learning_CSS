@@ -1,0 +1,45 @@
+.html {
+    color: #dd4b25;
+}
+.css {
+    color: #254BDD;
+}
+.javascript {
+    color: #efd81d;
+}
+.react {
+    color: #5ED3F3;
+}
+.tailwind {
+    color: #36B7F0;
+}
+#html {
+    font-size: 60px;
+}
+#css {
+    font-size: 60px;
+}
+#js {
+    font-size: 60px;
+}
+#react {
+    font-size: 60px;
+}
+#tw {
+    font-size: 60px;
+}
+[class] {
+    background-color: chocolate;
+}
+[ritik] {
+    background-color: cornflowerblue;
+}
+[ritik="king"] {
+    background-color: aquamarine;
+}
+ul p {
+    background-color: coral;
+}
+[its]:hover {
+    color: red;
+} 
